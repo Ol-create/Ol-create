@@ -1,8 +1,11 @@
-### Hi there 👋, my name is Oluyemi Paul
-#### I am a Full-Stack Developer
+# Hi there 👋, my name is Oluyemi Paul
+
+## I am a Full-Stack Developer
 ![I am a Full-Stack Developer](https://github.com/Ol-create/Ol-create/blob/main/github-banner.jpg)
 
-I can help you build a product, feature or website Look through some of my work and experience! If you like what you see and have a project you need to be coded, don’t hesitate to contact me.
+I can help you build a product, feature or website Look through some of my work
+and experience! If you like what you see and have a project you need to 
+be coded, don’t hesitate to contact me.
 
 ## Skills and Experience
 
