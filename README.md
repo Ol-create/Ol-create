@@ -1,11 +1,34 @@
-# Hi there 👋, my name is Oluyemi Paul
+<h1 align="center">Hi 👋, I'm Oluyemi</h1>
+<h3 align="center">A passionate developer from Nigeria</h3>
 
-## I am a Full-Stack Developer
-![I am a Full-Stack Developer](https://github.com/Ol-create/Ol-create/blob/main/github-banner.jpg)
+<p align="center"><i>Currently, I am a remote school student studying to become Full-Stack Developer. I have a great passion for learning languages and frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
 
-- I can help you build a product, feature or website Look through
--  some of my work and experience! If you like what you see and 
--  have a project you need to be coded, don’t hesitate to contact me.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ol-create&label=Profile%20views&color=0e75b6&style=flat" alt="Ol-create" /> </p>
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ol-create&row=1&margin-w=15&margin-h=15" alt="Ol-create" /></a> </p> -->
+
+<!-- - 🔭 I’m currently working on [this project](https://github.com/Ol-create/The-Conference) -->
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" />
+<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137183718-e051fc76-86f5-450e-a78b-5c4042ffe59e.jpg" width="350" height="350" /> -->
+<!-- ![github profile pic](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif) -->
+
+
+- 🔭 I’m currently training to become a Full-stack software developer.
+
+- 👨🏻‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://www.microverse.org/)
+
+- 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Ol-create)
+
+- 💻 Language stack: JavaScript, React, Ruby, Rails
+
+- 🌱  I'm smoothing my React and Redux skills
+
+- 💬 Ask me about **Anything related to coding**
+
+- 📫 How to reach me [Email](oluola96@gmail.com) | [Linkedin](https://www.linkedin.com/in/paul-oluyemi-193966ab)
+
+- ⚡ Fun fact **Coding has over 700 languages 🤔**
 
 ## Skills and Experience
 
