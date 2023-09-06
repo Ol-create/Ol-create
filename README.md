@@ -23,7 +23,7 @@
 
 - 💻 Language stack: JavaScript, React, Ruby, Rails -->
 
-- 🌱  👨🏻‍🎓 I’m currently learning currently I’m currently TypeScript, Java, Docker
+- 🌱  👨🏻‍🎓 I’m currently learning currently I’m currently TypeScript, Java, Docker and DevOp with IBM
 
 - 💬 Ask me about **Anything related to software development**
 
