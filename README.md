@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oluyemi</h1>
 <h3 align="center">A passionate developer from Nigeria</h3>
 
-<p align="center"><i> I'm a Full-Stack Developer. I have a great passion for using frameworks like JavaScript, React, and Ruby on Rails. Additionally, I am looking for new job opportunities!</i></p>
+<p align="center"><i> I'm a Full-Stack Developer with a strong passion for utilizing a variety of technologies and frameworks, including JavaScript, React JS, Redux, Express JS, Node JS, MongoDB, Ruby on Rails, Python, and Django. I am actively exploring exciting new career opportunities and open to new challenges in the software engineering field.</i></p>
 
 [![Visitors Count](https://komarev.com/ghpvc/?username=Ol-create&label=Profile%20views&color=f58200&style=flat)]()
 
