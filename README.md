@@ -15,13 +15,13 @@
 <!-- ![github profile pic](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif) -->
 
 
-- 🔭 I’m currently training to become a Full-stack software developer.
+<!-- - 🔭 I’m currently training to become a Full-stack software developer.
 
 - 👨🏻‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://www.microverse.org/)
 
 - 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Ol-create)
 
-- 💻 Language stack: JavaScript, React, Ruby, Rails
+- 💻 Language stack: JavaScript, React, Ruby, Rails -->
 
 - 🌱  I'm smoothing my React and Redux skills
 
