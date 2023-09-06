@@ -17,15 +17,15 @@
 
 <!-- - 🔭 I’m currently training to become a Full-stack software developer.
 
-- 👨🏻‍🎓 I’m currently learning how to build great project at [Microverse Inc](https://www.microverse.org/)
+- 
 
 - 🧑🏻‍💻 All of my projects are available [here.](https://github.com/Ol-create)
 
 - 💻 Language stack: JavaScript, React, Ruby, Rails -->
 
-- 🌱  I'm smoothing my React and Redux skills
+- 🌱  👨🏻‍🎓 I’m currently learning currently I’m currently TypeScript, Java, Docker
 
-- 💬 Ask me about **Anything related to coding**
+- 💬 Ask me about **Anything related to software development**
 
 - 📫 How to reach me [Email](oluola96@gmail.com) | [Linkedin](https://www.linkedin.com/in/paul-oluyemi-193966ab)
 
